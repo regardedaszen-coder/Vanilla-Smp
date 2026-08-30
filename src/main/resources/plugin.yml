@@ -1,0 +1,14 @@
+name: VanillaSMP
+description: Twelve vanilla-looking Mythics with exclusive survival mechanics.
+version: '${project.version}'
+main: dev.vanillasmp.VanillaSMP
+api-version: '1.21.11'
+load: POSTWORLD
+authors: [htefw]
+commands:
+  mythic:
+    description: Manage Mythics and view crafting rituals
+    usage: /mythic <menu|give|giveall|list|reload|resetrecipes> [player] [mythic]
+permissions:
+  vanillasmp.admin:
+    default: op

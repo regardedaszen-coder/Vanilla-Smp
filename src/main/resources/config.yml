@@ -1,0 +1,37 @@
+epoch:
+  radius: 15.0
+  duration-seconds: 3
+  cooldown-seconds: 120
+  damage-cap: 20.0
+starfall:
+  minimum-shot-separation-blocks: 2.0
+  maximum-shot-separation-blocks: 9.5
+  constellation-duration-seconds: 2.5
+  constellation-true-damage-per-tick: 0.03
+disarray:
+  range: 12.0
+  cooldown-seconds: 75
+transposition:
+  range: 10.0
+  cooldown-seconds: 35
+effigy:
+  duration-seconds: 15
+  transfer-multiplier: 0.55
+  max-transfer-damage: 8.0
+event-horizon:
+  duration-seconds: 5
+  cooldown-seconds: 60
+resonator:
+  beam-charge-ticks: 32
+  beam-duration-ticks: 70
+  beam-range: 42
+  beam-damage-per-pulse: 2.0
+  beam-damage-interval-ticks: 10
+  beam-cooldown-seconds: 12
+  slam-launch-velocity: 1.75
+  slam-radius: 11
+  slam-damage: 5.0
+  slam-cooldown-seconds: 30
+scripture:
+  silence-seconds: 6
+  pocket-seconds: 8

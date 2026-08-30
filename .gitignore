@@ -1,0 +1,21 @@
+# Maven build output
+target/
+
+# IntelliJ IDEA local workspace files
+.idea/
+*.iml
+
+# Java and operating-system files
+*.class
+*.log
+.DS_Store
+Thumbs.db
+
+# Local server/runtime data
+server/
+run/
+logs/
+plugins/
+world/
+world_nether/
+world_the_end/
